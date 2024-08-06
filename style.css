@@ -1,0 +1,191 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    list-style: none;
+}
+
+
+/*************************************** section-one */
+
+.dis {
+    display: flex;
+}
+
+.dis a {
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.mouse {
+    background: linear-gradient(to right, rgb(158, 109, 179), rgb(75, 28, 157), rgb(86, 134, 86));
+}
+
+
+/*************************************** section-three */
+.black {
+    background-color: rgba(0, 0, 0, 0.436);
+}
+
+.lap {
+    margin-left: 50px;
+    gap: 15px;
+}
+
+
+/*************************************** section-five */
+.cem {
+    margin-top: -30px;
+    margin-left: 50px;
+}
+
+.sem {
+    height: 400px;
+    width: 600px;
+}
+
+.back-col1 {
+    height: 40px;
+    width: 120px;
+    background-color: rgb(6, 6, 116);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -8px;
+}
+
+.back-col2 {
+    height: 40px;
+    width: 300px;
+    background-color: rgb(138, 21, 136);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;  
+}
+
+.info-body ul li label {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+.subtle {
+    background-color: rgb(175, 184, 208);
+}
+
+.shad {
+    box-shadow: 0px 0px 10px rgb(27, 27, 101);
+    margin-top: -65px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.result {
+    margin-top: 35px;
+}
+
+.style {
+    background-color: rgb(41, 148, 100); 
+    margin-left: -180px; 
+    margin-top: -70px; 
+    border-radius: 5px; 
+    height:65px;
+    width: 70px;
+}
+
+.download {
+    margin-left: 350px;
+    margin-top: -35px;
+}
+
+.download1 {
+    
+    margin-top: 130px;
+}
+
+.style1 {
+    background-color: rgb(41, 148, 100); 
+    margin-left: 40px; 
+    margin-top: -150px; 
+    border-radius: 5px; 
+    height:65px;
+    width: 70px;
+}
+
+.download1 {
+    
+    margin-top: 130px;
+}
+
+.style2 {
+    background-color: rgb(41, 148, 100); 
+    margin-left: -265px;
+    margin-top: 20px;
+    border-radius: 5px; 
+    height:65px;
+    width: 70px;
+}
+
+.name {
+    margin-left: 370px;
+    margin-top: -90px;
+    border-radius: 5px;
+}
+
+.shaddoww {
+    box-shadow: 0px 0px 10px rgb(27, 27, 101);
+    border-radius: 5px;
+}
+
+.bottle {
+    margin-top: -140px;
+    margin-left: 20px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    height:65px;
+    width: 70px;
+}
+
+.name1 {
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.bottle1 {
+    margin-top: 10px;
+    margin-left: -265px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    height:65px;
+    width: 70px;
+}
+
+.name2 {
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.bombom {
+    border: 5px solid White;
+}
+
+
+/*************************************** section-six & seven */
+.rimary {
+    background-color: rgb(25, 25, 72);
+}
+
+
+/*************************************** section-seven */
+.stills {
+     margin-top: 20px;
+     margin-left: 150px;
+}
+
+.skills {
+    margin-top: -40px;
+    margin-right: 150px;
+}
+
+

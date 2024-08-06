@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    list-style: none;
+}
+
+
+/*************************************** section-one */
+
+.dis {
+    display: flex;
+}
+
+.dis a {
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.mouse {
+    background: linear-gradient(to right, rgb(158, 109, 179), rgb(75, 28, 157), rgb(86, 134, 86));
+}
+
+
+/*************************************** section-three */
+.black {
+    background-color: rgba(0, 0, 0, 0.436);
+}
+
+.lap {
+    margin-left: 50px;
+    gap: 15px;
+}
+
+
+
+/*************************************** section-four */
+
+.subtle {
+    background-color: rgb(175, 184, 208);
+}
+
+.gotop {
+    margin-top: -55px;
+    
+}
+
+.chance {
+    background-color: rgb(112, 22, 154);
+    width: 100%;
+    height: 40px;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+/*************************************** section-five */
+.stills {
+     margin-top: 20px;
+     margin-left: 150px;
+}
+
+.skills {
+    margin-top: -40px;
+    margin-right: 150px;
+}
+
+
+.rimary {
+    background-color: rgb(25, 25, 72);
+}
+
+
+
